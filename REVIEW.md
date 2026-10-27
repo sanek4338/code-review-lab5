@@ -122,3 +122,4 @@ def position_changed(self, position):
 - Сузить `except`, добавить `is_file()` и обработку `PermissionError`.
 - Убрать `is_playing` и ручной таймер.
 - Вынести QSS в отдельный файл.
+
